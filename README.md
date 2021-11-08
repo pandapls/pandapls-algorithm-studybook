@@ -1,6 +1,6 @@
 # 算法学习日记
 [1]:https://juejin.cn/post/7025625566283825183 "掘金"
-[1-二叉树]:https://juejin.cn/post/7025625566283825183 "掘金"
+[1-二叉树]:https://juejin.cn/post/7028206521611714590 "掘金"
 [2]:https://github.com/pandapls/coding-code/tree/master "Github"
 [合并两个有序的链表]:https://www.bilibili.com/video/BV1Kv411M7dh?spm_id_from=333.999.0.0 "bilibili"
 ### 排序算法 ~ 11.6/7 将在掘金上补充算法的演变图
