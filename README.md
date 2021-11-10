@@ -1,6 +1,7 @@
 # 算法学习日记
 [1]:https://juejin.cn/post/7025625566283825183 "掘金"
 [1-二叉树]:https://juejin.cn/post/7028206521611714590 "掘金"
+[计数排序]:https://juejin.cn/post/7028831783495925796 "掘金"
 [2]:https://github.com/pandapls/coding-code/tree/master "Github"
 [合并两个有序的链表]:https://www.bilibili.com/video/BV1Kv411M7dh?spm_id_from=333.999.0.0 "bilibili"
 - 2021.11.01 选择排序 And 插入排序
@@ -28,3 +29,6 @@
 - 2021.11.09
   - 完成：从尾到头打印链表,返回倒数第 k 个节点,环形链表,  K 个一组翻转链表，只出现一次的数字 
   - 观看第二套算法解析
+- 2021.11.09
+  - [输出计数排序-掘金][计数排序]
+  - 观看第三套算法解析
