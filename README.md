@@ -4,6 +4,9 @@
 [计数排序]:https://juejin.cn/post/7028831783495925796 "掘金"
 [2]:https://github.com/pandapls/coding-code/tree/master "Github"
 [合并两个有序的链表]:https://www.bilibili.com/video/BV1Kv411M7dh?spm_id_from=333.999.0.0 "bilibili"
+[合并K个升序链表]:https://www.bilibili.com/video/BV1Vb4y1b7ti?spm_id_from=333.999.0.0 "bilibili"
+[分隔链表]:https://www.bilibili.com/video/BV1VP4y1L737?spm_id_from=333.999.0.0 "bilibili"
+
 - 2021.11.01 选择排序 And 插入排序
   - [掘金][1]
   - [Github][2]
@@ -50,3 +53,9 @@
 - 2021.11.17
   - 完成算法题：链表中倒数第k个节点、交换链表中的节点
   - 继续学习门徒算法中的动态规划
+- 2021.11.18
+  - 合并 k 个升序链表 、两两交换链表中的节点
+  - 观看第六套算法解析
+- 2021.11.19
+  输出 leetcode-23.合并K个升序链表 [B站][合并K个升序链表]
+      leetcode-86.分隔链表 [B站][分隔链表]
