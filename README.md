@@ -6,7 +6,7 @@
 [合并两个有序的链表]:https://www.bilibili.com/video/BV1Kv411M7dh?spm_id_from=333.999.0.0 "bilibili"
 [合并K个升序链表]:https://www.bilibili.com/video/BV1Vb4y1b7ti?spm_id_from=333.999.0.0 "bilibili"
 [分隔链表]:https://www.bilibili.com/video/BV1VP4y1L737?spm_id_from=333.999.0.0 "bilibili"
-
+[合并链表]:https://juejin.cn/post/7035146891515936798 "掘金"
 - 2021.11.01 选择排序 And 插入排序
   - [掘金][1]
   - [Github][2]
@@ -82,9 +82,11 @@
   - 环形链表 II
   - 观看完第八套算法题解析视频
   - [Github][2]
-- 2021.11.24
+- 2021.11.25
   - 删除排序链表中的重复元素 II
   - 观看完第八套算法题解析视频
-- 2021.11.24
+- 2021.11.26
   - 分隔链表
   - 设计循环队列
+- 2021.11.25=7
+  - 合并链表掘金输出[掘金][合并链表]
