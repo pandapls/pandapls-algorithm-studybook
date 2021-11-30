@@ -7,6 +7,7 @@
 [合并K个升序链表]:https://www.bilibili.com/video/BV1Vb4y1b7ti?spm_id_from=333.999.0.0 "bilibili"
 [分隔链表]:https://www.bilibili.com/video/BV1VP4y1L737?spm_id_from=333.999.0.0 "bilibili"
 [合并链表]:https://juejin.cn/post/7035146891515936798 "掘金"
+[年终总结]:https://juejin.cn/post/7036375909296766984 "掘金"
 - 2021.11.01 选择排序 And 插入排序
   - [掘金][1]
   - [Github][2]
@@ -98,3 +99,7 @@
   - 亲密字符串 
   - 最近的请求次数  
   - 设计前中后队列
+- 2021.11.30
+  - 煎饼排序
+  - [掘金年终总结][年终总结]
+
