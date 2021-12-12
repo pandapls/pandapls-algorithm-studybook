@@ -7,6 +7,7 @@
 [合并K个升序链表]:https://www.bilibili.com/video/BV1Vb4y1b7ti?spm_id_from=333.999.0.0 "bilibili"
 [分隔链表]:https://www.bilibili.com/video/BV1VP4y1L737?spm_id_from=333.999.0.0 "bilibili"
 [复制带随机指针的链表]:https://www.bilibili.com/video/BV1bL4y1H7Df?spm_id_from=333.999.0.0 "bilibili"
+[复制带随机指针的链表2]:https://juejin.cn/post/7040610102646145031 "掘金"
 [合并链表]:https://juejin.cn/post/7035146891515936798 "掘金"
 [年终总结]:https://juejin.cn/post/7036375909296766984 "掘金"
 - 2021.11.01 选择排序 And 插入排序
@@ -137,3 +138,9 @@
 - 2021.12.11
   - 复制带随机指针的链表 [b站][复制带随机指针的链表]
   - 二叉搜索树的第k大节点
+- 2021.12.12
+  - 复制带随机指针的链表 [掘金][复制带随机指针的链表2]
+  - 二叉树的前序遍历
+  - 监控二叉树
+  - 每日一题
+  - 树的子结构
