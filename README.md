@@ -7,12 +7,16 @@
 [合并K个升序链表]:https://www.bilibili.com/video/BV1Vb4y1b7ti?spm_id_from=333.999.0.0 "bilibili"
 [分隔链表]:https://www.bilibili.com/video/BV1VP4y1L737?spm_id_from=333.999.0.0 "bilibili"
 [复制带随机指针的链表]:https://www.bilibili.com/video/BV1bL4y1H7Df?spm_id_from=333.999.0.0 "bilibili"
+[盛最多水的容器B]:https://www.bilibili.com/video/BV1WP4y1n7wZ/ "bilibili"
+
 [复制带随机指针的链表2]:https://juejin.cn/post/7040610102646145031 "掘金"
 [合并链表]:https://juejin.cn/post/7035146891515936798 "掘金"
 [年终总结]:https://juejin.cn/post/7036375909296766984 "掘金"
 [返回第K个XX元素]:https://juejin.cn/post/7043346604815810573 "掘金"
 [es6]:https://juejin.cn/post/7045997452876316679 "掘金"
 [并查集]:https://juejin.cn/post/7046765355116527646 "掘金"
+[盛最多水的容器]:https://juejin.cn/post/7048492308769013767 "掘金"
+
 - 2021.11.01 选择排序 And 插入排序
   - [掘金][1]
   - [Github][2]
@@ -213,3 +217,6 @@
 - 2022.1.1
   - 2022.将一维数组转变成二维数组 
   - 字符串解码
+- 2022.1.1
+  -　［盛最多水的容器掘金][盛最多水的容器]
+  - ［盛最多水的容器B站][盛最多水的容器B]
