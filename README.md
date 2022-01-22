@@ -274,3 +274,8 @@
   - 最小时间差
 - 2022.1.19
   -  存在重复元素 II
+- 2022.1.20
+  -  观看vue3.0-4
+- 2022.1.22
+  - 删除回文子序列
+  - 学习设计模式day1，创建设计模式学习git地址 https://github.com/pandapls/DesignPattern
